@@ -1,0 +1,22 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Comfortaa&display=swap');
+
+html {
+    font-family: "Comfortaa", sans-serif;
+    color: whitesmoke;
+    background-color: black;
+}
+
+.sitenameheader {
+    margin: auto;
+    width: 13.5%;
+    border: 3px dashed whitesmoke;
+    padding: 10px;
+    
+}
+
+.slowgan {
+    margin: auto;
+    vertical-align: middle;
+    padding: 6px;
+    width: 13%
+}
